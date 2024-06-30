@@ -1,5 +1,6 @@
-import yandex.contest.trainings.first_day.sixth.sixth
+import common.binary_search.binarySearch
+
 
 fun main() {
-    sixth()
+ binarySearch()
 }
